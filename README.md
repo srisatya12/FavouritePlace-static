@@ -1,0 +1,1 @@
+# FavouritePlace-static
